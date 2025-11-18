@@ -1,3 +1,8 @@
+# Large CSV files
+df_final.csv
+surveyyear_by_gender_mapped_final_matrix.csv
+stackoverflow_survey_stratified_sample.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
